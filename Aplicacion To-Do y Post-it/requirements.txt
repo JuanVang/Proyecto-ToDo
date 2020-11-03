@@ -1,0 +1,3 @@
+Comando para instalar la libreria externa tkcalendar:
+pip install tkcalendar
+tkcalendar==1.6.1
